@@ -54,7 +54,7 @@ function DAppMain() {
   return (
     <div style={{ padding: '40px', textAlign: 'center', backgroundColor: '#f0f4f8', minHeight: '100vh', fontFamily: 'Arial' }}>
       <h2 style={{color: '#2c3e50'}}>DApp Control Panel</h2>
-      <p>Muallif: Salohiddinova Dilshodaxon</p>
+      <p>Muallif: Sotivoldiyev Nodirbek</p>
       
       <button onClick={connectWallet} style={styles.btn}>
         {account ? `Ulandi: ${account.slice(0,6)}...` : "Connect Wallet"}

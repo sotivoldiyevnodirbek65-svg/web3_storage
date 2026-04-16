@@ -1,5 +1,5 @@
 # Web3 DApp Project
-**Muallif:** Salohiddinova Dilshodaxon
+**Muallif:** Sotivoldiyev Nodirbek
 **Institut:** Andijon davlat texnika instituti
 
 Ushbu loyiha React va Solidity yordamida yaratilgan.

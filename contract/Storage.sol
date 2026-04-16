@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract DilshodaStorage {
+contract Storage {
     string private savedMessage;
     event MessageChanged(address indexed user, string newMessage);
 
